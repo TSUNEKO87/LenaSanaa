@@ -1,0 +1,13 @@
+
+.footer {
+    background: rgb(245,176,176);
+    background: linear-gradient(90deg, rgba(245,176,176,1) 0%, rgba(255,255,255,1) 51%, rgba(245,176,176,1) 100%);    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position:relative;
+}
+ul li {
+    list-style: none;
+    text-decoration: none;
+}
