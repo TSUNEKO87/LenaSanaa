@@ -13,14 +13,14 @@ state = {
       "_id": "1",
       "title": "Michael Kors",
       "src": [
-          "https://cdn-1.debijenkorf.be/web_detail_2x/michael-kors-jade-crossbodytas-met-leren-details/?reference=096/350/13_0963504007732090_pro_flt_frt_01_1108_1528_4674172.jpg",
-          "https://cdn-1.debijenkorf.be/web_detail_2x/michael-kors-jade-crossbodytas-met-leren-details/?reference=096/350/13_0963504007732090_pro_flt_det_01_1108_1528_4674169.jpg",
-          "https://cdn-1.debijenkorf.be/web_detail_2x/michael-kors-jade-crossbodytas-met-leren-details/?reference=096/350/13_0963504007732090_pro_flt_det_02_1108_1528_4674170.jpg",
-          "https://cdn-1.debijenkorf.be/web_detail_2x/michael-kors-jade-crossbodytas-met-leren-details/?reference=096/350/13_0963504007732090_pro_flt_det_09_1108_1528_4674171.jpg"
+          "https://img.ltwebstatic.com/images3_pi/2020/12/24/16087974963ba47b6d8232077d37f900c66269fefd_thumbnail_900x.webp",
+          "https://img.ltwebstatic.com/images3_pi/2020/12/24/1608797484c489dcf29967627dd94eb663fe5bda80_thumbnail_900x.webp",
+          "https://img.ltwebstatic.com/images3_pi/2020/12/24/16087974874779015249ca37ae6e2e516131636781_thumbnail_900x.webp",
+          "https://img.ltwebstatic.com/images3_pi/2020/12/24/1608797490145edcab6915f60e5d7f150299331fd0_thumbnail_900x.webp"
         ],
-      "description": "Sac bandoulière Jade avec détails en cuir",
-      "price1": "319,99",
-      "price": "287,99",
+      "description": "Robe swiss",
+      "price1": "30",
+      "price": "27",
       "count": 1
     }
   ],

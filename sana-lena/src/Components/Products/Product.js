@@ -2,13 +2,18 @@ import React from 'react';
 import { Card, CardMedia, CardContent, CardActions, Typography, IconButton } from '@material-ui/core';
 import AddShoppingCart from '@material-ui/icons/AddShoppingCart';
 import useStyles from './styles';
+import {Link} from 'react-router-dom'
 
 
 function Product({product, handleClick, handleToggle}) {
     const classes = useStyles();   
     return (
         <Card className={classes.root}>
-            <CardMedia className={classes.media} image={product.image} title={product.name} onClick={()=>handleClick(product.id)} > <span className={classes.pourcentage} >{product.pourcentage}</span> </CardMedia>
+        <Link to="/detail">
+        {/* onClick={()=>handleClick(product.id)}  */} 
+            <CardMedia className={classes.media} image={product.image} title={product.name}  > <span className={classes.pourcentage} >{product.pourcentage}</span> 
+            </CardMedia>
+        </Link>
             <CardContent>
                 <div className={classes.cardContent}>
                     <Typography variant="h5" color="textPrimary">

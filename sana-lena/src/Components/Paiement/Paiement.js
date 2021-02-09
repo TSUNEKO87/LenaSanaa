@@ -2,7 +2,7 @@ import React from 'react'
 import Paypal from '../Assets/Paypal.png'
 import Visa from '../Assets/Visa.png'
 import Mastercard from '../Assets/Mastercard.png'
-import Mk from '../Assets/Mk.png'
+import dress from '../Assets/dress.png'
 import { makeStyles } from '@material-ui/core/styles';
 import TextField from '@material-ui/core/TextField';
 import Button from '@material-ui/core/Button';
@@ -58,13 +58,13 @@ const Paiement = () => {
                 <img src={Paypal} width="5%" />
             </div>
             <div className="final">
-                <img src={Mk} />   
-                <p> Sac bandoulière Jade avec détails en cuir </p>
+                <img src={dress} width= "100px" />   
+                <p> Drop Shoulder Swiss Dot Smock Dress</p>
                 <hr/>  
-                <p> Sous-Total: 287,99€ </p>
+                <p> Sous-Total: 27€ </p>
                 <p> Frais de livraison: 2€ </p>
                 <hr/>
-                <p> Total: 289,99€</p>
+                <p> Total: 29€</p>
             </div>
             
         </div>

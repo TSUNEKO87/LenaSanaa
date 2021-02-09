@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import Mk from '../Assets/Mk.png'
+import dress from '../Assets/dress.png'
 import Paypal from '../Assets/Paypal.png'
 import Visa from '../Assets/Visa.png'
 import Mastercard from '../Assets/Mastercard.png'
@@ -32,11 +32,11 @@ const Card = () => {
             <hr/>
             <div className="panier"> 
                 <div className="img">
-                    <img src={Mk} />   
+                    <img src={dress}  width= "120px"/>   
                 </div>
                 <div className="content">
-                    <p> Michaelk kors </p>
-                    <p> Sac bandoulière Jade avec détails en cuir </p>  
+                    <p> Robe suiss </p>
+                    <p> Drop Shoulder Swiss Dot Smock Dress  </p>  
                 </div>
                 <div>
                     <p> Prix </p> 
