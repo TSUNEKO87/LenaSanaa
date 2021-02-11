@@ -1,0 +1,21 @@
+
+   .home
+   {
+     height: 100vh;
+     display: flex;
+     align-items: flex-end;
+     justify-content: space-between;
+     margin-top: -20%;
+   } 
+  
+  @media (max-width: 900px){
+     .home {
+       display: inline-block;
+       width: 80%;
+       margin-top: 10%;
+       align-items: flex-end;
+       justify-content: space-between;
+       margin-bottom: -200px;
+       margin-left: 80px;
+     }
+   } 

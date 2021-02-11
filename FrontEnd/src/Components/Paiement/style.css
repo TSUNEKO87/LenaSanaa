@@ -1,0 +1,45 @@
+/* paiment page  */
+.paiement {
+    margin-left: 20%;
+    margin-right: 10%;
+    padding: 3%;
+    display: flex;
+    width: 60%
+ }
+  .paiement p {
+    font-size: 18px;
+    margin: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .final img {
+    width: 230px;
+  }
+ 
+  .final {
+    margin-top: 5%;
+    width: 40%;
+    margin-left: 20px;
+  }
+ 
+  input{
+   display: flex;
+   margin: 10px;
+   border-radius: 5px;
+   height: 26px
+ }
+ 
+ .card p {
+   font-family: 'PT Serif', serif;   
+   font-weight: bold;
+   font-size: medium;
+ }
+ .card h5 {
+  font-family: 'PT Serif', serif; 
+  font-size: x-large;
+  margin-left: 20px;
+}
+ 
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+
+
